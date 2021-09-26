@@ -1,6 +1,6 @@
 /*
  *
- * Greetr is a framework that returns greetings for users
+ * Greetr is a (mini) framework that returns greetings for users
  *
  * Supports Spanish and English
  *
