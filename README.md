@@ -9,3 +9,5 @@ Reusable library/framework.
 Easy to type structure.
 
 Supports jQuery. Project include compressed jQuery. I did not write this.
+
+Ready to run out of box with live example. Just clone the repository and run index.html
