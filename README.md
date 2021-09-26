@@ -1,6 +1,6 @@
 GREETR (mini) framework built as part of an advanced Javascript course
 
-When give na first name, last name, and optional language, it generates formal and informal greetings.
+When given a first name, last name, and optional language, it generates formal and informal greetings.
 
 Supports Engligh and Spanish.
 
