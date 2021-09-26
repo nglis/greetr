@@ -145,6 +145,8 @@
 		self.firstName = firstName || "";
 		self.lastName = lastName || "";
 		self.language = language || "en";
+
+		self.validate();
 	};
 
 	// Trick borrow from jQuery so we don't have to use 'new' keyword
