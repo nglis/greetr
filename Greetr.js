@@ -119,7 +119,7 @@
 				throw "jQuery not loading";
 			}
 
-			if (!selected) {
+			if (!selector) {
 				throw "Missing jQuery selector";
 			}
 
